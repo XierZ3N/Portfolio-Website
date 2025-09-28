@@ -11,7 +11,7 @@ export default function Navbar() {
           href="/"
           className="text-2xl font-bold text-violet-400 tracking-wide hover:text-violet-300 transition"
         >
-          Shivansh Raj Singh
+          Shivou
         </Link>
 
         {/* Right - Links */}
