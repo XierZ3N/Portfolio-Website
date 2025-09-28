@@ -14,19 +14,11 @@ export default function FaceRecognitionPage() {
         {/* Summary */}
         <div className="p-6 rounded-xl bg-black/40 border border-violet-500/40 shadow-[0_0_20px_rgba(139,92,246,0.3)] mb-12">
           <p>
-            <span className="font-bold text-white">Summary:</span> A Python-based real-time Face Recognition System built using OpenCV and face_recognition library.
-Developed a complete pipeline: face dataset collection → encoding → real-time recognition.
-Implemented automated dataset capture via webcam for seamless user enrollment.
-Built an encoding generator to store facial embeddings in a serialized format (pickle).
-Designed a real-time recognition system that identifies known faces from live video feed.
-Incorporated attendance logging (Name + Timestamp) into CSV files for practical use cases like classrooms or small offices.
-Optimized for Mac M2 hardware, successfully running with Continuity Camera & native webcam.
-Tech Stack: Python, OpenCV, dlib/face_recognition, NumPy, CSV
-Future Improvements:
-Incremental dataset updates without retraining.
-Anti-spoofing (preventing photo/video hacks).
-GUI/Web Dashboard for attendance management.
-👉 This project demonstrates skills in computer vision, real-time systems, and applied machine learning, making it scalable toward real-world applications like office/classroom attendance tracking.
+            <span className="font-bold text-white">Summary:</span> A Python project that performs real-time face recognition using OpenCV and the face_recognition library.
+Built a dataset capture module to collect face images via webcam.
+Implemented face encoding and serialization with pickle.
+Developed a real-time recognition script that detects and identifies known faces from live video.
+Tech Stack: Python, OpenCV, face_recognition, NumPy
           </p>
         </div>
 
