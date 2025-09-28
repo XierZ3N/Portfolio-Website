@@ -3,7 +3,7 @@
 My personal portfolio built with *Next.js, TailwindCSS, and Framer Motion*.  
 Clean, minimal, modern, and a bit dynamic ✨.  
 
-🌐 *Live:* [Click Here](iamshivansh.com)  
+🌐 *Live:* [Click Here](https://www.iamshivansh.com)  
 
 ---
 
